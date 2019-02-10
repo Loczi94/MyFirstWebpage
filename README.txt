@@ -1,1 +1,1 @@
-Run index.html with a web browser.
+Download and run index.html with a web browser.
